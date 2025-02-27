@@ -1,0 +1,9 @@
+#to initialiaze package.json run cmmd (npm init -y)
+#install axios npm i axios
+#install axios npm i nodemon
+
+GET=> retrieve data to use get
+POST=> for new user creation use post
+PUT=>to replace a set
+PATCH=>use for miner change
+DELETE=>to delete data
